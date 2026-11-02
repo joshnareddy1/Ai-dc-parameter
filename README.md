@@ -1,3 +1,5 @@
+[![Pipeline Status](https://github.com/joshnareddy1/Ai-dc-parameter/actions/workflows/pipeline.yml/badge.svg)](https://github.com/joshnareddy1/Ai-dc-parameter/actions/workflows/pipeline.yml)
+
 # AI-Optimized DC Parametric Test-Time Reduction
 
 A reproducible Python project that evaluates measurement-settling optimization, static test coverage reduction, test ordering, predictive RUN/SKIP decisions, adaptive flow, PAT, scorecard replay, and monitoring using the supplied synthetic dataset.
